@@ -1,2 +1,2 @@
 # fake-image-dectection
-fft() 함수를 사용하지 않고 fake image를 감지하는 프로그램입니다.
+fft() 함수를 사용하지 않고 fake image를 구별하는 과제
